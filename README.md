@@ -1,5 +1,6 @@
 # AI-danhlo
-quy hồi tuyến tính
+Quy hồi tuyến tính
+---------
 Hướng dẫn:
 - Đầu tiên download Anaconda ở đây https://www.anaconda.com/download
 - Sau khi cài đặt thì copy file trên vào thư mục đã cài đặt anaconda

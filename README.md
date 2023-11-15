@@ -6,7 +6,7 @@ Hướng dẫn:
 - Sau khi cài đặt thì copy file trên vào thư mục đã cài đặt anaconda
 - Sau khi copy xong thì chỉnh lại chuỗi số bằng chuỗi kết quả ngày hôm trước
 - Sau đó vào cmd, di chuyển đến thư mục anaconda
-- Gõ python main.py trong cửa sổ cmd.
+- Gõ python main.py trong cửa sổ cmd (ví dụ như hình 2 đính kèm)
 - Xong
 - Ví dụ trong hình đính kèm và chuỗi số trong file main.py:
 - numbers = [00, 97, 92, 48, 00, 52, 10, 39, 49, 55, 75, 98, 69, 7, 87, 98, 98, 2, 43, 14, 66, 14, 53, 36, 97, 41, 57]
